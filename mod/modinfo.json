@@ -1,0 +1,11 @@
+{
+	"id": "lessui",
+	"name": "Less UI",
+	"version": "1.0.0",
+	"hide_version": false,
+	"authors": "Coder23848",
+	"description": "Removes the extra UI on the shelter screen that appears with Remix and MSC enabled.",
+	"requirements": [],
+	"requirements_names": [],
+	"checksum_override_version": false
+}

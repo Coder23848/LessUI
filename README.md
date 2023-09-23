@@ -1,0 +1,2 @@
+# Less UI
+Removes the extra UI on the shelter screen that appears with Remix and MSC enabled. This includes the kill feed and the arena token tracker. The kill feed still appears for Hunter, per vanilla behavior.
