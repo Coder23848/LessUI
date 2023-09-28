@@ -20,7 +20,7 @@ namespace LessUI
         {
             orig(self, package);
             // Delete kill feed
-            if (PluginOptions.RemoveKillFeed.Value && package.characterStats.name != SlugcatStats.Name.Red)
+            if (self.killsDisplay != null && PluginOptions.RemoveKillFeed.Value && package.characterStats.name != SlugcatStats.Name.Red)
             {
                 self.pages[0].RemoveSubObject(self.killsDisplay);
                 self.killsDisplay = null;
