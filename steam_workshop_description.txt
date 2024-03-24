@@ -1,1 +1,3 @@
 Removes the extra UI on the shelter screen that appears with Remix and MSC enabled. Can be configured to hide the kill tracker, unlock token tracker, or both.
+
+Works with both v1.9.15 and v1.9.07b.
